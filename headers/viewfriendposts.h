@@ -1,8 +1,5 @@
-// viewfriendposts.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//============================
 // See friends' wall and posts
-//============================
+
 #ifndef VIEWFRIENDPOSTS_H
 #define VIEWFRIENDPOSTS_H
 

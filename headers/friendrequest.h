@@ -1,8 +1,5 @@
-// friendrequest.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//=============================
 // Accept/Reject Friend Request
-//=============================
+
 #ifndef FRIENDREQUEST_H
 #define FRIENDREQUEST_H
 

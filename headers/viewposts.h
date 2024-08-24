@@ -1,8 +1,5 @@
-// viewposts.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//==============
 // See your wall
-//==============
+
 #ifndef VIEWPOSTS_H
 #define VIEWPOSTS_H
 

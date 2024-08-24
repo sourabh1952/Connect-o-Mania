@@ -1,8 +1,5 @@
-// exxit.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//======================
 // Exit from the program
-//======================
+
 #ifndef EXXIT_H
 #define EXXIT_H
 

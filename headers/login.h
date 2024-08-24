@@ -1,8 +1,5 @@
-// login.h
-// Copyright 2020, Konstantinos Thanos [Mathematician, MSc]. All rights reserved.
-//===========
 // User Login
-//===========
+
 #ifndef LOGIN_H
 #define LOGIN_H
 
