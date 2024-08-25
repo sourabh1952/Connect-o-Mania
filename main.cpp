@@ -1,9 +1,3 @@
-/*======================================
-        Social Network in C++
-           Copyright 2020, 
-Konstantinos Thanos [Mathematician, MSc]
-         All rights reserved
-=========================================*/
 // Header files
 #include <sstream> // for string stream classes (std::stringstream)
 // Local header files

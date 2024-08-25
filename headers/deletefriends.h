@@ -15,7 +15,7 @@ void deletefriends()
     while(delmoreFriends=="Y" || delmoreFriends=="y")
     {
 		cout << endl << "\e[1mDELETE FRIEND\e[0m" << endl;
-		ifstream myfile;
+		ifstream myfile; //to read the contents of a file
 		myfile.open(logname.c_str()); // Open file of logged in user
 
 		int lineCount = 1;
